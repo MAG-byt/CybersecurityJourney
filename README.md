@@ -14,5 +14,5 @@ Portfolio pieces demonstrating analytical and technical work across three domain
 ### 🕵️ Cyber Threat Intelligence
 | Project | Description |
 |---|---|
-| [Vulnerability/Exploit Intelligence Brief](https://github.com/MAG-byt/CybersecurityJourney/blob/main/CVE-2026-76461-Intelligence%20Brief.md) | Analyst-style intelligence brief on an actively-exploited CVE — technical details, exploitation activity, attribution assessment, and detection/mitigation guidance. |
+| [Vulnerability/Exploit Intelligence Brief - CVE-2026-76461](https://github.com/MAG-byt/CybersecurityJourney/blob/main/CVE-2026-76461-Intelligence%20Brief.md) | Analyst-style intelligence brief on an actively-exploited CVE — technical details, exploitation activity, attribution assessment, and detection/mitigation guidance. |
 
