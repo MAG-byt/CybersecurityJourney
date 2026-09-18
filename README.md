@@ -6,3 +6,5 @@ My core values of precision, discretion, and a genuine commitment to protecting 
 
 <h2>Objective</h2>
 I am now building on this foundation by developing technical cybersecurity skills and platform expertise, with the goal of applying my analytical depth and multilingual reach to help organisations anticipate, identify, and respond to the evolving threats.
+<h2>Projects</h2>
+- <b>Cyber Threat Intelligence</b>
