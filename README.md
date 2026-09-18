@@ -3,7 +3,7 @@ Portfolio to document my learning path in the field of cybersecurity
 
 ## Hello, My name is Matias
 
-[Brief Introduction]
+<h2>Description</h2>
 With three years of experience conducting physical threat intelligence analysis, person of interest investigations, and OSINT research at a leading global risk consultancy, I have decided to transition into to the field of cybersecurity — one built on the same tradecraft that underpins cyber threat intelligence: structured analysis, adversary profiling, and clear, actionable reporting for high-stakes decision-makers. 
 
 [Professional Values]
