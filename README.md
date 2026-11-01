@@ -22,5 +22,5 @@ Small, focused Python scripts that automate routine analyst tasks: validating ac
 
 | Project | Description |
 | --- | --- |
-| [Login Access Control Checker](https://github.com/MAG-byt/CybersecurityJourney/blob/main/python-security-automation/login-access-control-checker) | Validates a username and device ID against approved lists, distinguishing unapproved users from approved users on the wrong device. |
+| [Login Access Control Checker](https://github.com/MAG-byt/CybersecurityJourney/blob/main/python-security-automation/login-access-control-checker.md) | Validates a username and device ID against approved lists, distinguishing unapproved users from approved users on the wrong device. |
 | [Login Log IP Extraction & Flagging](https://github.com/MAG-byt/CybersecurityJourney/blob/main/python-security-automation/Login%20Access%20Control%20Checker.md) | Uses regex to extract IP addresses from raw login logs and checks each against a list of previously flagged addresses. |
