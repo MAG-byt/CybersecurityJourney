@@ -16,3 +16,11 @@ Portfolio pieces demonstrating analytical and technical work across three domain
 |---|---|
 | [Vulnerability/Exploit Intelligence Brief - CVE-2026-76461](https://github.com/MAG-byt/CybersecurityJourney/blob/main/CVE-2026-76461-Intelligence%20Brief.md) | CVE-2026-76461 is a critical (CVSS 9.8) SQL injection vulnerability in Cisco AsyncOS Software for Cisco Secure Email Gateway (SEG) appliances. |
 
+### 🐍 Python Security Automation
+
+Small, focused Python scripts that automate routine analyst tasks: validating access, parsing logs, and triaging indicators.
+
+| Project | Description |
+| --- | --- |
+| [Login Access Control Checker](python-security-automation/login-access-control-checker.md) | Validates a username and device ID against approved lists, distinguishing unapproved users from approved users on the wrong device. |
+| [Login Log IP Extraction & Flagging](python-security-automation/login-log-ip-flagging.md) | Uses regex to extract IP addresses from raw login logs and checks each against a list of previously flagged addresses. |
