@@ -9,7 +9,7 @@ I am now building on this foundation by developing technical cybersecurity skill
 
 ## 📂 Projects
 
-Portfolio pieces demonstrating analytical and technical work across three domains. Each links to a write-up in its own repo/folder.
+Portfolio pieces demonstrating analytical and technical work across cybersecurity domains:
 
 ### 🕵️ Cyber Threat Intelligence
 | Project | Description |
