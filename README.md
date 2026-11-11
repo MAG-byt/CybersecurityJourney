@@ -1,5 +1,5 @@
 ## Hello, I'm Matias 👋
-With three years of experience conducting physical threat intelligence analysis, person of interest investigations, and OSINT research at a leading global risk consultancy, I have decided to transition into to the field of cybersecurity — one built on the same tradecraft that underpins cyber threat intelligence: structured analysis, adversary profiling, and clear, actionable reporting for high-stakes decision-makers. 
+With three years of experience conducting physical threat intelligence analysis, person of interest investigations, and OSINT research at a leading global risk consultancy, I have decided to transition into to the field of cybersecurity given the shared tradecraft that underpins both sectors sector: structured analysis, adversary profiling, and clear, actionable reporting for high-stakes decision-makers. 
 
 <h2>🧭Professional Values</h2>
 My core values of precision, discretion, and a genuine commitment to protecting people from harm align directly with the mission of security-focused organisations, where the quality of intelligence determines the outcomes on the ground. 
