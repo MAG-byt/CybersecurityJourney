@@ -32,4 +32,4 @@ Hands-on investigation of suspicious activity: triaging alerts, analysing eviden
 
 | Project | Description |
 | ------- | ----------- |
-| [Phishing Email Forensics](https://github.com/MAG-byt/CybersecurityJourney/blob/main/phishing-email-forensics/README.md) | Single-sample case study of a "TV Licensing" payment phishing email that passed SPF, DKIM and DMARC. Covers header analysis, Unicode and HTML obfuscation, social engineering techniques, IOC extraction and a proposed email gateway detection rule. |
+| [Phishing Email Forensics](https://github.com/MAG-byt/CybersecurityJourney/blob/main/SOC%20Analysis%20/phishing-email-forensics.md) | Single-sample case study of a "TV Licensing" payment phishing email that passed SPF, DKIM and DMARC. Covers header analysis, Unicode and HTML obfuscation, social engineering techniques, IOC extraction and a proposed email gateway detection rule. |
