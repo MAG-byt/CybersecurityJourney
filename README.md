@@ -24,3 +24,12 @@ Small, focused Python scripts that automate routine analyst tasks: validating ac
 | --- | --- |
 | [Login Access Control Checker](https://github.com/MAG-byt/CybersecurityJourney/blob/main/python-security-automation/Login%20Access%20Control%20Checker.md) | Validates a username and device ID against approved lists, distinguishing unapproved users from approved users on the wrong device. |
 | [Login Log IP Extraction & Flagging](https://github.com/MAG-byt/CybersecurityJourney/blob/main/python-security-automation/Login%20Log%20IP%20Extraction%20%26%20Flagging.md) | Uses regex to extract IP addresses from raw login logs and checks each against a list of previously flagged addresses. |
+
+
+### 🛡️ SOC Analysis
+
+Hands-on investigation of suspicious activity: triaging alerts, analysing evidence, extracting indicators and turning findings into detection logic.
+
+| Project | Description |
+| ------- | ----------- |
+| [Phishing Email Forensics](https://github.com/MAG-byt/CybersecurityJourney/blob/main/phishing-email-forensics/README.md) | Single-sample case study of a "TV Licensing" payment phishing email that passed SPF, DKIM and DMARC. Covers header analysis, Unicode and HTML obfuscation, social engineering techniques, IOC extraction and a proposed email gateway detection rule. |
