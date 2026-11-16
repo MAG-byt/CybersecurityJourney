@@ -1,3 +1,5 @@
+# Firewall Log Triage Tool
+
 ## What this project shows
 
 - **Log triage:** turning thousands of raw rows into a short, ranked list of sources to investigate.
