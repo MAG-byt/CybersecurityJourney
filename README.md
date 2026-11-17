@@ -14,7 +14,8 @@ Portfolio pieces demonstrating analytical and technical work across cybersecurit
 ### 🕵️ Cyber Threat Intelligence
 | Project | Description |
 |---|---|
-| [Vulnerability/Exploit Intelligence Brief - CVE-2026-76461](https://github.com/MAG-byt/CybersecurityJourney/blob/main/CVE-2026-76461-Intelligence%20Brief.md) | CVE-2026-76461 is a critical (CVSS 9.8) SQL injection vulnerability in Cisco AsyncOS Software for Cisco Secure Email Gateway (SEG) appliances. |
+| [Threat Actor Profile - Scattered Spider (G1015)](https://github.com/MAG-byt/CybersecurityJourney/blob/main/cyber-threat-intelligence/Scattered-Spider-Threat-Actor-Profile.md) | Structured intelligence assessment of Scattered Spider, a financially motivated group that breaches organisations through help-desk social engineering. Covers ATT&CK mapping, Kill Chain, infrastructure analysis, Diamond Model and confidence-rated judgements. |
+| [Vulnerability/Exploit Intelligence Brief - CVE-2026-76461](https://github.com/MAG-byt/CybersecurityJourney/blob/main/cyber-threat-intelligence/CVE-2026-76461-Intelligence%20Brief.md) | CVE-2026-76461 is a critical (CVSS 9.8) SQL injection vulnerability in Cisco AsyncOS Software for Cisco Secure Email Gateway (SEG) appliances. |
 
 ### 🐍 Python Security Automation
 
@@ -33,4 +34,4 @@ Hands-on investigation of suspicious activity: triaging alerts, analysing eviden
 | Project | Description |
 | ------- | ----------- |
 | [Phishing Email Forensics](https://github.com/MAG-byt/CybersecurityJourney/blob/main/SOC%20Analysis%20/phishing-email-forensics.md) | Single-sample case study of a "TV Licensing" payment phishing email that passed SPF, DKIM and DMARC. Covers header analysis, Unicode and HTML obfuscation, social engineering techniques, IOC extraction and a proposed email gateway detection rule. |
-| [Firewall log traige tool](https://github.com/MAG-byt/CybersecurityJourney/blob/main/SOC%20Analysis%20/firewall%20_log_triage_tool.md) | This project builds a command-line Python tool that summarises a large firewall log CSV: it counts allowed and denied connections, ranks the source IPs with the most denied connections, and flags how many of those hit sensitive ports. |
+| [Firewall log triage tool](https://github.com/MAG-byt/CybersecurityJourney/blob/main/SOC%20Analysis%20/firewall%20_log_triage_tool.md) | This project builds a command-line Python tool that summarises a large firewall log CSV: it counts allowed and denied connections, ranks the source IPs with the most denied connections, and flags how many of those hit sensitive ports. |
