@@ -33,3 +33,4 @@ Hands-on investigation of suspicious activity: triaging alerts, analysing eviden
 | Project | Description |
 | ------- | ----------- |
 | [Phishing Email Forensics](https://github.com/MAG-byt/CybersecurityJourney/blob/main/SOC%20Analysis%20/phishing-email-forensics.md) | Single-sample case study of a "TV Licensing" payment phishing email that passed SPF, DKIM and DMARC. Covers header analysis, Unicode and HTML obfuscation, social engineering techniques, IOC extraction and a proposed email gateway detection rule. |
+| [Firewall log traige tool](https://github.com/MAG-byt/CybersecurityJourney/blob/main/SOC%20Analysis%20/firewall%20_log_triage_tool.md) | This project builds a command-line Python tool that summarises a large firewall log CSV: it counts allowed and denied connections, ranks the source IPs with the most denied connections, and flags how many of those hit sensitive ports. |
